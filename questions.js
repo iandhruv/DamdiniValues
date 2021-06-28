@@ -153,7 +153,7 @@ questions = [
         }
     },
     {
-        "question": "Land in the Western Counties inhabited by the Wandering Peoples should not be owned by the Federal Government", ***
+        "question": "Land in the Western Counties inhabited by the Wandering Peoples should not be owned by the Federal Government.", 
         "effect": {
             "econ": 0,
             "dipl": 0,
