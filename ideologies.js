@@ -1,15 +1,15 @@
 ideologies = [
     {
-        "name": "Communist Party of Damdinistan", //Communist
+        "name": "Communist Party of Damdinistan", // "Communist"
         "stats": {
-            "econ": 100, //more econ more communist
-            "dipl": 90,  //more dipl more global
-            "govt": 20, // more govt more anarchist
-            "scty": 90 // more scty more progressive
+            "econ": 100, // "more econ more communist"
+            "dipl": 90,  // "more dipl more global"
+            "govt": 20, // "more govt more anarchist"
+            "scty": 90 // "more scty more progressive"
         }
     },
     {
-        "name": "Hunter-Gatherer's Front", //Theocratic Socialism
+        "name": "Hunter-Gatherer's Front", // "Theocratic Socialism"
         "stats": {
             "econ": 80,
             "dipl": 20,
@@ -18,7 +18,7 @@ ideologies = [
         }
     },
     {
-        "name": "Socialist-Labour Party; Labour Caucus", //Democratic Socialism
+        "name": "Socialist-Labour Party; Labour Caucus", // "Democratic Socialism"
         "stats": {
             "econ": 90,
             "dipl": 80,
@@ -27,7 +27,7 @@ ideologies = [
         }
     },
     {
-        "name": "Zachaui's Action Party", //Social-Democratic-Devolution
+        "name": "Zachaui's Action Party", // "Social-Democratic-Devolution"
         "stats": {
             "econ": 60,
             "dipl": 30,
@@ -37,7 +37,7 @@ ideologies = [
     },
     
     {
-        "name": "Socialist-Labour Party; New Bloc", //Social Democracy
+        "name": "Socialist-Labour Party; New Bloc", // "Social Democracy"
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -46,7 +46,7 @@ ideologies = [
         }
     },
     {
-        "name": "Progressive Caucus", //Progressive
+        "name": "Progressive Caucus", // "Progressive"
         "stats": {
             "econ": 60,
             "dipl": 80,
@@ -55,7 +55,7 @@ ideologies = [
         }
     },
     {
-        "name": "Radical Party - The Democratic Centre; The Technocrats", //Technocracy
+        "name": "Radical Party - The Democratic Centre; The Technocrats", // "Technocracy"
         "stats": {
             "econ": 60,
             "dipl": 70,
@@ -64,7 +64,7 @@ ideologies = [
         }
     },
     {
-        "name": "Radical Party - The Democratic Centre; Center for Moderate Policy", //Centrism
+        "name": "Radical Party - The Democratic Centre; Center for Moderate Policy", // "Centrism"
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -73,7 +73,7 @@ ideologies = [
         }
     },
     {
-        "name": "Peoples' Party", //Moderate Conservatism
+        "name": "Peoples' Party", // "Moderate Conservatism"
         "stats": {
             "econ": 30,
             "dipl": 40,
@@ -82,7 +82,7 @@ ideologies = [
         }
     },
     {
-        "name": "Jiarrāng Pride", //Libertarianism
+        "name": "Jiarrāng Pride", // "Libertarianism"
         "stats": {
             "econ": 50,
             "dipl": 60,
@@ -91,7 +91,7 @@ ideologies = [
         }
     },
     {
-        "name": "National Union of Damdinistan; Anti-Wandering Division", //Nazism
+        "name": "National Union of Damdinistan; Anti-Wandering Division", // "Nazism"
         "stats": {
             "econ": 40,
             "dipl": 0,
@@ -100,7 +100,7 @@ ideologies = [
         }
     },
     {
-        "name": "National Union of Damdinistan; Damdinistan First", //Fascism
+        "name": "National Union of Damdinistan; Damdinistan First", // "Fascism"
         "stats": {
             "econ": 40,
             "dipl": 20,
@@ -109,7 +109,7 @@ ideologies = [
         }
     },
     {
-        "name": "United Party; Yellow Dog Caucus", //NeoLib
+        "name": "United Party; Yellow Dog Caucus", // "NeoLib"
         "stats": {
             "econ": 50,
             "dipl": 60,
@@ -118,7 +118,7 @@ ideologies = [
         }
     },
     {
-        "name": "Rally for Democracy", //Neo-Conservatism
+        "name": "Rally for Democracy", // "Neo-Conservatism"
         "stats": {
             "econ": 20,
             "dipl": 20,
