@@ -9,11 +9,11 @@ questions = [
         }
     },
     {
-        "question": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "question": "It is necessary for the Federal Damdini Government to intervene in the economy to protect consumers.",
         "effect": {
             "econ": 10,
             "dipl": 0,
-            "govt": 0,
+            "govt": -10,
             "scty": 0
         }
     },
@@ -36,20 +36,20 @@ questions = [
         }
     },
     {
-        "question": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
+        "question": "Federally-funded research is more beneficial to the people than leaving it to the Nations.",
         "effect": {
-            "econ": 10,
+            "econ": 0,
             "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "govt": -10
+            "scty": 0
         }
     },
     {
         "question": "Tariffs on international trade are important to encourage local production.",
         "effect": {
-            "econ": 5,
+            "econ": 10,
             "dipl": 0,
-            "govt": -10,
+            "govt": -5,
             "scty": 0
         }
     },
@@ -67,7 +67,7 @@ questions = [
         "effect": {
             "econ": -10,
             "dipl": 0,
-            "govt": 0,
+            "govt": 10,
             "scty": 0
         }
     },
@@ -94,16 +94,16 @@ questions = [
         "effect": {
             "econ": 10,
             "dipl": 0,
-            "govt": 0,
+            "govt": 5,
             "scty": 0
         }
     },
     {
-        "question": "Government intervention is a threat to the economy.",
+        "question": "Federal intervention is a threat to the economy of the Nations.",
         "effect": {
-            "econ": -10,
+            "econ": -5,
             "dipl": 0,
-            "govt": 0,
+            "govt": -10,
             "scty": 0
         }
     },
@@ -135,38 +135,38 @@ questions = [
         }
     },
     {
-        "question": "The United Nations should be abolished.",
+        "question": "The Nations should have autonomous governments equal to the Federal Government.", 
         "effect": {
             "econ": 0,
-            "dipl": -10,
-            "govt": -5,
+            "dipl": 0,
+            "govt": 15,
             "scty": 0
         }
     },
     {
-        "question": "Military action by our nation is often necessary to protect it.",
+        "question": "Military action by our nation is often necessary to protect it.", 
         "effect": {
             "econ": 0,
             "dipl": -10,
-            "govt": -10,
+            "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "I support regional unions, such as the European Union.",
+        "question": "Land in the Western Counties inhabited by the Wandering Peoples should not be owned by the Federal Government", ***
         "effect": {
-            "econ": -5,
-            "dipl": 10,
+            "econ": 0,
+            "dipl": 0,
             "govt": 10,
             "scty": 5
         }
     },
     {
-        "question": "It is important to maintain our national sovereignty.",
+        "question": "It is important to maintain National sovereignty over the Federal government.",
         "effect": {
             "econ": 0,
-            "dipl": -10,
-            "govt": -5,
+            "dipl": 0,
+            "govt": 10,
             "scty": 0
         }
     },
@@ -175,7 +175,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 10,
-            "govt": 0,
+            "govt": -5,
             "scty": 0
         }
     },
@@ -193,7 +193,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": -10,
-            "govt": -10,
+            "govt": 5,
             "scty": 0
         }
     },
@@ -202,7 +202,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 10,
-            "govt": 10,
+            "govt": 0,
             "scty": 0
         }
     },
@@ -216,11 +216,11 @@ questions = [
         }
     },
     {
-        "question": "My nation is great.",
+        "question": "My Nation is great.",
         "effect": {
             "econ": 0,
             "dipl": -10,
-            "govt": 0,
+            "govt": 10,
             "scty": 0
         }
     },
@@ -238,7 +238,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 10,
-            "govt": 5,
+            "govt": 0,
             "scty": 0
         }
     },
@@ -256,16 +256,16 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": -5,
-            "govt": -10,
+            "govt": 10,
             "scty": -10
         }
     },
     {
-        "question": "Our nation's values should be spread as much as possible.",
+        "question": "Our Nation's values should be spread as much as possible.",
         "effect": {
             "econ": 0,
             "dipl": -10,
-            "govt": -5,
+            "govt": 10,
             "scty": 0
         }
     },
@@ -288,11 +288,11 @@ questions = [
         }
     },
     {
-        "question": "Physician-assisted suicide should be legal.",
+        "question": "Taxpayer money should not be going to assist Wandering People who do not pay taxes.",
         "effect": {
-            "econ": 0,
+            "econ": -5,
             "dipl": 0,
-            "govt": 10,
+            "govt": -5,
             "scty": 0
         }
     },
@@ -306,7 +306,7 @@ questions = [
         }
     },
     {
-        "question": "Government surveillance is necessary in the modern world.",
+        "question": "The Federal Government is necessary in the modern world.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -315,7 +315,7 @@ questions = [
         }
     },
     {
-        "question": "The very existence of the state is a threat to our liberty.",
+        "question": "The very existence of the Federal Government is a threat to our liberty.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -324,11 +324,11 @@ questions = [
         }
     },
     {
-        "question": "Regardless of political opinions, it is important to side with your country.",
+        "question": "Regardless of political opinions, it is important to side with your Nation.",
         "effect": {
             "econ": 0,
-            "dipl": -10,
-            "govt": -10,
+            "dipl": -5,
+            "govt": 5,
             "scty": -5
         }
     },
@@ -337,7 +337,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10,
+            "govt": 5,
             "scty": 5
         }
     },
@@ -346,8 +346,8 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10,
-            "scty": 0
+            "govt": 0,
+            "scty": -10
         }
     },
     {
@@ -355,15 +355,15 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10,
-            "scty": 0
+            "govt": 0,
+            "scty": 5
         }
     },
     {
         "question": "The stronger the leadership, the better.",
         "effect": {
             "econ": 0,
-            "dipl": -10,
+            "dipl": 0,
             "govt": -10,
             "scty": 0
         }
@@ -373,8 +373,8 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10,
-            "scty": 0
+            "govt": 0,
+            "scty": 5
         }
     },
     {
@@ -382,7 +382,7 @@ questions = [
         "effect": {
             "econ": 5,
             "dipl": 0,
-            "govt": 0,
+            "govt": -5,
             "scty": 10
         }
     },
@@ -391,16 +391,16 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 0,
+            "govt": -10,
             "scty": 10
         }
     },
     {
-        "question": "Children should be educated in religious or traditional values.",
+        "question": "Children should be educated in traditional values.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -5,
+            "govt": 5,
             "scty": -10
         }
     },
@@ -414,21 +414,21 @@ questions = [
         }
     },
     {
-        "question": "Religion should play a role in government.",
+        "question": "Each Nation has a right to self-determination.",
         "effect": {
             "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": -10
+            "dipl": 5,
+            "govt": 10,
+            "scty": 0
         }
     },
     {
-        "question": "Churches should be taxed the same way other institutions are taxed.",
+        "question": "Wandering Peoples should be taxed the same way other citizens are taxed.",
         "effect": {
             "econ": 5,
             "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "govt": -10,
+            "scty": 0
         }
     },
     {
@@ -436,7 +436,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 0,
+            "govt": 5,
             "scty": 10
         }
     },
@@ -490,8 +490,8 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10,
-            "scty": 2
+            "govt": 0,
+            "scty": 5
         }
     },
     {
@@ -499,7 +499,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10,
+            "govt": 0,
             "scty": 10
         }
     },
@@ -517,17 +517,17 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -5,
+            "govt": 0,
             "scty": -10
         }
     },
     {
-        "question": "If we accept migrants at all, it is important that they assimilate into our culture.",
+        "question": "It is important that Wandering People democratize their institutions.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": -5,
-            "scty": -10
+            "scty": 5
         }
     },
     {
@@ -535,17 +535,17 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10,
+            "govt": 0,
             "scty": -10
         }
     },
     {
-        "question": "Gun ownership should be prohibited for those without a valid reason.",
+        "question": "The Hunting Practices of the Wandering People has led to needless destruction of wildlife.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": -10,
-            "scty": 0
+            "scty": 5
         }
     },
     {
@@ -562,7 +562,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10,
+            "govt": 0,
             "scty": -10
         }
     },
@@ -598,7 +598,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 10,
-            "govt": 10,
+            "govt": 0,
             "scty": 0
         }
     },
@@ -616,17 +616,17 @@ questions = [
         "effect": {
             "econ": 10,
             "dipl": 10,
-            "govt": 10,
+            "govt": 0,
             "scty": 10
         }
     },
     {
-        "question": "It is important that we further my group's goals above all others.",
+        "question": "It is important that we further my Nation's goals above all others.",
         "effect": {
-            "econ": -10,
-            "dipl": -10,
-            "govt": -10,
-            "scty": -10
+            "econ": -5,
+            "dipl": -5,
+            "govt": 10,
+            "scty": 0
         }
     }
 ];
